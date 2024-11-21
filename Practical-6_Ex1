@@ -45,23 +45,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kKbt54nRdYkG28QeUAlB-0" value="Private Owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="kKbt54nRdYkG28QeUAlB-6" value="PrivateOwner" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="150" width="110" height="80" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="kKbt54nRdYkG28QeUAlB-1" value="PropertyForRent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="kKbt54nRdYkG28QeUAlB-7" value="fname" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="kKbt54nRdYkG28QeUAlB-6">
+          <mxGeometry y="26" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kKbt54nRdYkG28QeUAlB-2" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kKbt54nRdYkG28QeUAlB-3" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kKbt54nRdYkG28QeUAlB-4" value="Branch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kKbt54nRdYkG28QeUAlB-5" value="register" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="450" width="130" height="80" as="geometry" />
+        <mxCell id="kKbt54nRdYkG28QeUAlB-8" value="lname" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="kKbt54nRdYkG28QeUAlB-6">
+          <mxGeometry y="52" width="110" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
