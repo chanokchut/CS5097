@@ -426,7 +426,7 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-151" value="Exhibition show Art Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BI7n9oEjIv4drbfOqCoB-148">
           <mxGeometry x="0.0084" y="1" relative="1" as="geometry">
-            <mxPoint x="2" y="-2" as="offset" />
+            <mxPoint x="-7" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BI7n9oEjIv4drbfOqCoB-79" target="BI7n9oEjIv4drbfOqCoB-18">
@@ -558,6 +558,9 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-229" value="[0..*]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BI7n9oEjIv4drbfOqCoB-230" value="[1..*]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="360" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
