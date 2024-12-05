@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="ttafwq1xsi_IYxlI1mk_">
-    <mxGraphModel dx="1290" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,16 +434,16 @@
             <mxPoint x="1262" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BI7n9oEjIv4drbfOqCoB-115" value="Prefer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BI7n9oEjIv4drbfOqCoB-114">
+        <mxCell id="BI7n9oEjIv4drbfOqCoB-115" value="Prefer, Invitation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BI7n9oEjIv4drbfOqCoB-114">
           <mxGeometry x="0.0714" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-116" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;&quot;&gt;CS5097 Group3 :&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;EER modelling&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Conceptual &lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="478" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-117" value="Invitation" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="395" width="160" height="160" as="geometry">
+          <mxGeometry x="1441" y="400" width="160" height="135" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -458,6 +458,12 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-121" value="datesent" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BI7n9oEjIv4drbfOqCoB-117">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BI7n9oEjIv4drbfOqCoB-122" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.003;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BI7n9oEjIv4drbfOqCoB-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1353" y="426" as="sourcePoint" />
+            <mxPoint x="1055" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
