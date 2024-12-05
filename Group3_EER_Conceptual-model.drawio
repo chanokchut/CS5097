@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="ttafwq1xsi_IYxlI1mk_">
-    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,9 +379,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BI7n9oEjIv4drbfOqCoB-140" value="&lt;div&gt;Borrow &lt;br&gt;from museum?&lt;/div&gt;&lt;div&gt;Arts Friends Circle&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BI7n9oEjIv4drbfOqCoB-139" vertex="1" connectable="0">
+        <mxCell id="BI7n9oEjIv4drbfOqCoB-140" value="&lt;div&gt;Borrow from museum?&lt;/div&gt;&lt;div&gt;Arts Friends Circle&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BI7n9oEjIv4drbfOqCoB-139" vertex="1" connectable="0">
           <mxGeometry x="-0.2378" y="-2" relative="1" as="geometry">
-            <mxPoint x="-12" y="-60" as="offset" />
+            <mxPoint x="-12" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-141" value="" style="endArrow=none;html=1;rounded=0;exitX=0.999;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BI7n9oEjIv4drbfOqCoB-24" target="BI7n9oEjIv4drbfOqCoB-9" edge="1">
@@ -389,14 +389,14 @@
             <mxPoint x="350" y="610" as="sourcePoint" />
             <mxPoint x="380" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="186" />
-              <mxPoint x="320" y="386" />
+              <mxPoint x="300" y="186" />
+              <mxPoint x="300" y="386" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BI7n9oEjIv4drbfOqCoB-142" value="Artist create Art Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="BI7n9oEjIv4drbfOqCoB-141" vertex="1" connectable="0">
+        <mxCell id="BI7n9oEjIv4drbfOqCoB-142" value="Artist&lt;br&gt;create&lt;br&gt;Art Object" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="BI7n9oEjIv4drbfOqCoB-141" vertex="1" connectable="0">
           <mxGeometry x="-0.4645" relative="1" as="geometry">
-            <mxPoint y="81" as="offset" />
+            <mxPoint x="4" y="43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-143" value="{Mandatory,Or}" style="text;whiteSpace=wrap;" parent="1" vertex="1">
@@ -413,7 +413,7 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-227" value="Mimic of the original art object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BI7n9oEjIv4drbfOqCoB-147" vertex="1" connectable="0">
           <mxGeometry x="0.1043" y="2" relative="1" as="geometry">
-            <mxPoint x="-3" y="24" as="offset" />
+            <mxPoint x="40" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-148" value="" style="endArrow=none;html=1;rounded=0;exitX=0.001;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BI7n9oEjIv4drbfOqCoB-61" target="BI7n9oEjIv4drbfOqCoB-9" edge="1">
@@ -424,7 +424,7 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-151" value="Exhibition show Art Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BI7n9oEjIv4drbfOqCoB-148" vertex="1" connectable="0">
           <mxGeometry x="0.0084" y="1" relative="1" as="geometry">
-            <mxPoint x="-7" y="-1" as="offset" />
+            <mxPoint x="-8" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BI7n9oEjIv4drbfOqCoB-79" target="BI7n9oEjIv4drbfOqCoB-18" edge="1">
@@ -436,7 +436,7 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-156" value="Curator maintain Art Object" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BI7n9oEjIv4drbfOqCoB-149" vertex="1" connectable="0">
           <mxGeometry x="-0.0407" y="2" relative="1" as="geometry">
-            <mxPoint x="-19" y="-3" as="offset" />
+            <mxPoint x="-19" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-150" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BI7n9oEjIv4drbfOqCoB-73" target="BI7n9oEjIv4drbfOqCoB-61" edge="1">
@@ -496,7 +496,7 @@
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-222" value="Featured Exhibitions sell Mimic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BI7n9oEjIv4drbfOqCoB-221" vertex="1" connectable="0">
           <mxGeometry x="0.2913" y="2" relative="1" as="geometry">
-            <mxPoint x="-5" y="-1" as="offset" />
+            <mxPoint x="-46" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BI7n9oEjIv4drbfOqCoB-223" value="" style="endArrow=none;html=1;rounded=0;dashed=1;entryX=-0.002;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BI7n9oEjIv4drbfOqCoB-107" edge="1">
@@ -583,6 +583,36 @@
         </mxCell>
         <mxCell id="l-XrPR8u-CguGG5Q9fo7-14" value="[1..1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="576" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-XrPR8u-CguGG5Q9fo7-15" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=5;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;endSize=8;arcSize=100;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="310" y="284" as="sourcePoint" />
+            <mxPoint x="310" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-XrPR8u-CguGG5Q9fo7-18" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=5;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;endSize=8;arcSize=100;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="581" y="174.8" as="sourcePoint" />
+            <mxPoint x="591" y="174.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-XrPR8u-CguGG5Q9fo7-22" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=5;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;endSize=8;arcSize=100;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="956" y="174.8" as="sourcePoint" />
+            <mxPoint x="946" y="174.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-XrPR8u-CguGG5Q9fo7-23" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=5;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;endSize=8;arcSize=100;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="310" y="686" as="sourcePoint" />
+            <mxPoint x="310" y="676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-XrPR8u-CguGG5Q9fo7-24" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=5;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;endSize=8;arcSize=100;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="690" y="374.76" as="sourcePoint" />
+            <mxPoint x="680" y="374.76" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
