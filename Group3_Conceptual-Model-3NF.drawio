@@ -236,7 +236,7 @@
         <mxCell id="NUtVhF5h9HZDoagzUMLB-74" value="loyaltymember_No {PK}" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NUtVhF5h9HZDoagzUMLB-73" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NUtVhF5h9HZDoagzUMLB-75" value="loyaltymember_fname" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NUtVhF5h9HZDoagzUMLB-73" vertex="1">
+        <mxCell id="NUtVhF5h9HZDoagzUMLB-75" value="loyaltymember_name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NUtVhF5h9HZDoagzUMLB-73" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NUtVhF5h9HZDoagzUMLB-76" value="status" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NUtVhF5h9HZDoagzUMLB-73" vertex="1">
