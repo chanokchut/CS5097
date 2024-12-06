@@ -19,7 +19,7 @@
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NUtVhF5h9HZDoagzUMLB-9" value="Museum" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="619" width="160" height="211" as="geometry">
+          <mxGeometry x="90" y="619" width="160" height="182" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -40,9 +40,6 @@
         </mxCell>
         <mxCell id="NUtVhF5h9HZDoagzUMLB-15" value="contactname" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NUtVhF5h9HZDoagzUMLB-9" vertex="1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="NUtVhF5h9HZDoagzUMLB-206" value="artobject_ID {FK}" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NUtVhF5h9HZDoagzUMLB-9" vertex="1">
-          <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NUtVhF5h9HZDoagzUMLB-16" value="ArtObject" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="320" width="200" height="370" as="geometry">
