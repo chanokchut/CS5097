@@ -523,21 +523,15 @@
           <mxGeometry y="78" width="171.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="swCmm5xKt_yj3qullBZ7-158" value="BorrowFromAFC" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="680.6400000000001" width="160" height="130" as="geometry">
+          <mxGeometry x="290" y="680.64" width="160" height="79.36" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="swCmm5xKt_yj3qullBZ7-159" value="artobject_ID {FK}" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="swCmm5xKt_yj3qullBZ7-158" vertex="1">
+        <mxCell id="swCmm5xKt_yj3qullBZ7-161" value="date_borrowed" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="swCmm5xKt_yj3qullBZ7-158" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="swCmm5xKt_yj3qullBZ7-160" value="museum_ID {FK}" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="swCmm5xKt_yj3qullBZ7-158" vertex="1">
-          <mxGeometry y="52" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="swCmm5xKt_yj3qullBZ7-161" value="date_borrowed" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="swCmm5xKt_yj3qullBZ7-158" vertex="1">
-          <mxGeometry y="78" width="160" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="swCmm5xKt_yj3qullBZ7-162" value="date_returned" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="swCmm5xKt_yj3qullBZ7-158" vertex="1">
-          <mxGeometry y="104" width="160" height="26" as="geometry" />
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="swCmm5xKt_yj3qullBZ7-163" value="&lt;span style=&quot;font-size: 11px; text-align: right; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Borrow Art Object from&lt;/span&gt;&lt;br style=&quot;font-size: 11px; text-align: right; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-align: right; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Arts Friends Circle&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="561" width="170" height="80" as="geometry" />
